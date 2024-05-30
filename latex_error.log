@@ -1,0 +1,16 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.7)
+entering extended mode
+! I can't find file `C:/Users/ELENAJ'.
+<to be read again> 
+                   \protect 
+<*> C:/Users/ELENAJ~
+                    1/AppData/Local/Temp/tmpbu0tg6p0/circuit.tex
+Please type another input file name: 
+! Emergency stop.
+<to be read again> 
+                   \protect 
+<*> C:/Users/ELENAJ~
+                    1/AppData/Local/Temp/tmpbu0tg6p0/circuit.tex
+!  ==> Fatal error occurred, no output PDF file produced!
+Transcript written on C:\Users\ELENAJ~1\AppData\Local\Temp\tmpbu0tg6p0\texput.l
+og.
